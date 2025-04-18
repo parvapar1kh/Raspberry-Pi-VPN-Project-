@@ -8,7 +8,7 @@ This project involved building a secure, self-hosted VPN using WireGuard on a Ra
 
 ---
 
-## How to complete
+## How to Complete
 
 Download the zip file attached which holds all neccearey items to complete the project - Follow the given steps below, if you expeirirnece roadblocks, self-troubleshooting is your path to victory! Good luck and have fun!
 
