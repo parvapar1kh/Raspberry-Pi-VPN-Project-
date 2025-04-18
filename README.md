@@ -72,6 +72,8 @@ Download the zip file attached which holds all neccearey items to complete the p
 
 ---
 
-## Outcome
+## Outcome/Purpose
 
-This project successfully resulted in a lightweight, fully functional VPN server deployed on a Raspberry Pi. It provided practical experience with networking, Linux administration, and secure communication fundamentals. The final setup supports secure remote access, encrypted traffic routing, and can be reused or expanded for homelab environments and travel privacy needs.
+This project led to a fully working VPN server built on a Raspberry Pi, using WireGuard for secure and private connections. Setting it up gave me hands-on experience with networking basics, Linux commands, and system configuration. The VPN is lightweight, runs reliably, and allows for secure remote access to my home network --- whether for personal use, testing, or just browsing privately on public Wi-Fi. I wanted something that was both practical and a good learning tool, and this setup delivered. It’s especially useful when traveling, since I can route traffic through my home network and avoid restrictions or tracking. On top of that, working through this lab helped me better understand key topics like firewalls, NAT, DNS, and VPN tunneling. It’s a solid project for anyone building a cybersecurity portfolio or wanting to get real experience setting up secure infrastructure on a budget.
+
+
